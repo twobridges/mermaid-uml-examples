@@ -10,6 +10,9 @@
 
 https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/
 
+mermaid has pretty good examples!
+
+https://mermaid-js.github.io/mermaid/#/classDiagram?id=syntax
 
 # Mermaid Model Examples
 

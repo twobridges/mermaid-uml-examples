@@ -6,7 +6,7 @@
 | 
 [ISSUES](general/issues.md)
 
-# Diagrams
+# THE EXAMPLES
 
 ## Class Diagram
 
