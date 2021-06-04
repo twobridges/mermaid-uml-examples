@@ -6,4 +6,12 @@
 | 
 [ISSUES](general/issues.md)
 
+# Diagrams
 
+## Class Diagram
+
+[Class Diagram Examples](class-diagram/class-diagram.md)
+
+## ER Diagram
+
+[ER Diagram Examples](class-diagram/class-diagram.md)

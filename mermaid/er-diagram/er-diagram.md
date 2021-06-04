@@ -2,7 +2,7 @@
 | 
 [THE EXAMPLES](../the-examples.md)
 | 
-[TIPS](../general/the-examples.md)
+[TIPS](../general/tips.md)
 | 
 [ISSUES](../general/issues.md)
 
