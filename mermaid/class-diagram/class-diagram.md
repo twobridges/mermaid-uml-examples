@@ -1,10 +1,4 @@
-[README](../../README.md)
-| 
-[THE EXAMPLES](../the-examples.md)
-| 
-[TIPS](../general/tips.md)
-| 
-[ISSUES](../general/issues.md)
+[README](/README.md) | [THE EXAMPLES](/mermaid/the-examples.md) | [TIPS](/mermaid/general/tips.md) | [ISSUES](/mermaid/general/issues.md)
 
 # Class Diagrams in UML
 
