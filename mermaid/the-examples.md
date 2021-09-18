@@ -6,6 +6,10 @@
 
 [Class Diagram Examples](/mermaid/class-diagram/class-diagram.md)
 
-## ER Diagram
+## Entity Diagram
 
 [ER Diagram Examples](/mermaid/er-diagram/er-diagram.md)
+
+## Sequence Diagram
+
+[Sequence Diagram Examples](/mermaid/sequence-diagram/sequence-diagram.md)

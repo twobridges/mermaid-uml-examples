@@ -10,7 +10,6 @@ The following text "1..*" is invisible by default in vscode
 
 ```mermaid
 classDiagram
-
 A "1..*" -- "0..*" B
 
 ```
